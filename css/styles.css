@@ -1,5 +1,6 @@
 @import url(reset.css);
 
+
 body{
     scroll-behavior: smooth;
 }
@@ -47,7 +48,9 @@ body{
 
 .navigation{
     width: 100px;
+    height: 130px;
     padding: 20px;
+    margin-top: -65px;
     background-color:rgba(87, 123, 183, 0.308);
     border: 1px solid rgba(87, 123, 183, 0.308);
     border-radius: 4px;
